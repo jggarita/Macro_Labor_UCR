@@ -6,19 +6,29 @@ output: html_document
 
 ### Referencias bibliográficas
 
-* [*International Macroeconomics: A Modern Approach*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe y Michael Woodford.
-* [*Open Economy Macroeconomics*](https://press.princeton.edu/books/hardcover/9780691158778/open-economy-macroeconomics) de Stephanie Schmitt-Grohé y Martín Uribe.
-* [*Foundations of International Macroeconomics*](https://mitpress.mit.edu/books/foundations-international-macroeconomics#:~:text=Foundations%20of%20International%20Macroeconomics%20is,open%20economy%20macroeconomics%20and%20finance.) de Maurice Obstfeld y Kenneth Rogoff.
+* [*Labor Economics*](https://mitpress.mit.edu/books/labor-economics-second-edition) de  Pierre Cahuc, Stéphane Carcillo y André Zylberberg.
+* [*Equilibrium Unemployment Theory*](https://mitpress.mit.edu/books/equilibrium-unemployment-theory-second-edition#:~:text=An%20equilibrium%20theory%20of%20unemployment,the%20private%20gains%20from%20trade.) de Christopher Pissarides.
+* [*Wage Dispersion: Why Are Similar Workers Paid Differently?*](https://mitpress.mit.edu/books/wage-dispersion) de Dale T. Mortensen.
 
 <br>
 
 ### Datos
 
-* [The external wealth of nations database](https://www.brookings.edu/research/the-external-wealth-of-nations-database/) 
 * Indicadores económicos del [BCCR](https://www.bccr.fi.cr/indicadores-economicos)
 
 <br>
 
+
+### Códigos
+
+* Implementación del modelo de McCall por [QuantEcon](https://python.quantecon.org/mccall_model.html)
+
 ### Publicaciones y artículos
 
-* TBD
+<br>
+
+#### Oferta y participación laboral
+
+* Faberman, R. J., Mueller, A. I., & Şahin, A. (2022). Has the Willingness to Work Fallen during the Covid Pandemic? (No. w29784). National Bureau of Economic Research.[Link](https://www.nber.org/system/files/working_papers/w29784/w29784.pdf)
+
+* Aguiar, M., Bils, M., Charles, K. K., & Hurst, E. (2021). Leisure luxuries and the labor supply of young men. Journal of Political Economy, 129(2), 337-382. [Link](https://www.markaguiar.com/files/leisure_luxuries.pdf)

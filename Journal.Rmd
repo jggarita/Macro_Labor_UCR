@@ -14,13 +14,13 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros fueron basadas en el libro [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) de Stephanie Schmitt-Grohé, Martín Uribe, and Michael Woodford (SUW).
+Acá puede encontrar los materiales del curso. Las clases, presentaciones, tareas y otros se basan en distintas fuentes. Incluyo referencias que pueden ser útiles para entender mejor los conceptos.
 
 <br>
 
 # Programa (Syllabus)
 
-La versión más reciente del programa del curso [acá.](materials/MacroInternacional_I22.pdf)
+La versión más reciente del programa del curso [acá.](materials/MacroLabor.pdf)
 
 <br>
 
@@ -28,97 +28,38 @@ La versión más reciente del programa del curso [acá.](materials/MacroInternac
 
 <br>
 
-### Desbalances globales y cuenta corriente
+### Modelo Neoclásico del mercado laboral
 
-* Capítulo 1 SUW
-* [Notas](materials/Tesis_1.pdf)
-* [Tarea 1](materials/Tarea_1.pdf)
-
-### Sostenibilidad de la cuenta corriente
-
-* Capítulo 2 SUW
-* Tarea 2
+* Capítulo 1 Cahuc, Carcillo y Zylberberg
+* Notas
+* Tarea 1
 
 # Tesis 2 
 
 <br>
 
-### Una teoría intertemporal de la cuenta corriente
+### Búsqueda unilateral
 
-* Capítulo 3 y 4 SUW
-* Tarea 3
-
-### Determinación de la cuenta corriente en una economía de producción
-
-* Capítulo 5 SUW
-* Tarea 4
-
-### Incertidumbre y cuenta corriente
-
-* Capítulo 6 SUW
-* Tarea 5
-
-### Economías grandes y abiertas
-
-* Capítulo 7 SUW
-* Tarea 6
+* Notas
+* Tarea 2
 
 # Tesis 3 
 
 <br>
 
-### Déficits gemelos
+### Búsqueda bilateral
 
-* Capítulo 8 SUW
-* Tarea 7
+* Notas
+* Tarea 3
 
 # Tesis 4 
 
 <br>
 
-### Tipo de cambio real y paridad del poder de compra
+### Búsqueda desde el empleo
+
+* Notas
+* Tarea 4
 
 
-* Capítulo 9 SUW
-* Tarea 8
 
-### Determinantes del tipo de cambio real
-
-* Capítulo 10 SUW
-* Tarea 9
-
-# Tesis 5  
-
-<br>
-
-### Integración del mercado de capitales
-
-* Capítulo 11 SUW
-* Tarea 10
-
-# Tesis 6 
-
-<br>
-
-### Rigideces nominales, política cambiaria y desempleo 
-
-* Capítulo 13 SUW
-* Tarea 11
-
-# Tesis 7 
-
-<br>
-
-### Manejo de paridades cambiarias
-
-* Capítulo 14 SUW
-* Tarea 12
-
-# Tesis 8 
-
-<br>
-
-### Finanzas internacionales y crisis de la balanza de pagos
-
-* Capítulo 15 SUW
-* Tarea 13

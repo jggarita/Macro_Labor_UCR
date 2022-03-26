@@ -1,5 +1,5 @@
 ---
-title: "Macroeconomía Internacional"
+title: "Macroeconomía Laboral"
 output: html_document
 ---
 
@@ -18,7 +18,7 @@ output: html_document
 <div class="col-sm-6">
 
 
-# **Macroeconomía Internacional**
+# **Macroeconomía Laboral**
 <br>
 
 Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referencias importantes para el desarrollo del curso. También voy a incluir material en Mediación Virtual según sea necesario. 
@@ -29,24 +29,25 @@ Les doy la bienvenida a este sitio. Acá encontrarán avisos, material y referen
 * Prof. Jonathan Garita, Ph.D.
 * Correo del curso: i2022ucr@gmail.com
 * Mediación virtual: TBD
-* Asistente: TBD
-* *Sesión de práctica*: Lunes 17-19:50 (Mismo acceso que la clase)
+* Horas consulta: Martes 17-18:00 (Cita previa)
 
 ## Evaluación:
 
-1. Tareas y asignaciones: 30%
+1. Tareas y asignaciones: 50%
 
-2. Primer parcial: 35%
+2. Investigación: 40%
 
-3. Segundo parcial 35%
+3. Participación: 10%
 
 ## Referencias:
 
-* Schmitt-Grohé, Uribe, y Woodford. [*International Macroeconomics: A Modern Approach"*](https://press.princeton.edu/books/hardcover/9780691170640/international-macroeconomics) **(May 25, 2021)**
+* Christopher Pissarides: Equilibrium Unemployment Theory
+* Pierre Cahuc and André Zylberberg: Labor Economics
+* Dale Mortensen: Wage dispersion
 
 ## Avisos importantes
 
-* La tarea 1 ha sido posteada. **Fecha de entrega**: 7 de abril.
+* La tarea 1 ha sido posteada. **Fecha de entrega**: 21 de abril.
 
 
 
