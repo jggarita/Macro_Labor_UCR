@@ -32,3 +32,5 @@ output: html_document
 * Faberman, R. J., Mueller, A. I., & Şahin, A. (2022). Has the Willingness to Work Fallen during the Covid Pandemic? (No. w29784). National Bureau of Economic Research.[Link](https://www.nber.org/system/files/working_papers/w29784/w29784.pdf)
 
 * Aguiar, M., Bils, M., Charles, K. K., & Hurst, E. (2021). Leisure luxuries and the labor supply of young men. Journal of Political Economy, 129(2), 337-382. [Link](https://www.markaguiar.com/files/leisure_luxuries.pdf)
+
+* The great resignation: [Wikipedia](https://en.wikipedia.org/wiki/Great_Resignation), [NPR](https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation)
