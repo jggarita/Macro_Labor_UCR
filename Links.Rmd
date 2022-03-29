@@ -34,3 +34,9 @@ output: html_document
 * Aguiar, M., Bils, M., Charles, K. K., & Hurst, E. (2021). Leisure luxuries and the labor supply of young men. Journal of Political Economy, 129(2), 337-382. [Link](https://www.markaguiar.com/files/leisure_luxuries.pdf)
 
 * The great resignation: [Wikipedia](https://en.wikipedia.org/wiki/Great_Resignation), [NPR](https://www.npr.org/sections/money/2022/01/25/1075115539/the-great-resignation-more-like-the-great-renegotiation)
+
+<br>
+
+#### Determinación salarial
+
+* Acemoglu, D., He, A. X., & le Maire, D. (2022). Eclipse of Rent-Sharing: The Effects of Managers’ Business Education on Wages and the Labor Share in the US and Denmark.  4059303.[Link](https://www.nber.org/system/files/working_papers/w29874/w29874.pdf)
