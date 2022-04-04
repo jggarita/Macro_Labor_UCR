@@ -30,7 +30,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 ### Modelo Neoclásico del mercado laboral
 
-* Capítulo 1 Cahuc, Carcillo y Zylberberg
+* Capítulos 1 y 2 de Cahuc, Carcillo y Zylberberg
 * [Notas](materials/Modelo_neoclasico.pdf)
 * Tarea 1
 
