@@ -32,7 +32,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 * Capítulos 1 y 2 de Cahuc, Carcillo y Zylberberg
 * [Notas](materials/Modelo_neoclasico.pdf)
-* Tarea 1
+* [Tarea 1](materials/Tarea_1.pdf)
 
 # Tesis 2 
 
