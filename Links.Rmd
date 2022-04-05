@@ -15,7 +15,7 @@ output: html_document
 ### Datos
 
 * Indicadores económicos del [BCCR](https://www.bccr.fi.cr/indicadores-economicos)
-
+*
 <br>
 
 
