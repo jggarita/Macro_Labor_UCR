@@ -40,7 +40,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 ### Búsqueda unilateral
 
-* Notas
+* Notas modelo [McCall](materials/McCall.pdf)
 * Tarea 2
 
 # Tesis 3 
