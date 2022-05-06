@@ -9,6 +9,8 @@ output: html_document
 * [*Labor Economics*](https://mitpress.mit.edu/books/labor-economics-second-edition) de  Pierre Cahuc, Stéphane Carcillo y André Zylberberg.
 * [*Equilibrium Unemployment Theory*](https://mitpress.mit.edu/books/equilibrium-unemployment-theory-second-edition#:~:text=An%20equilibrium%20theory%20of%20unemployment,the%20private%20gains%20from%20trade.) de Christopher Pissarides.
 * [*Wage Dispersion: Why Are Similar Workers Paid Differently?*](https://mitpress.mit.edu/books/wage-dispersion) de Dale T. Mortensen.
+* [*Recursive Macroeconomic Theory*](https://mitpress.mit.edu/books/recursive-macroeconomic-theory-fourth-edition) de Lars Ljungqvist y Thomas J. Sargent
+* [*Intermediate Macroeconomics*](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) de Julio Garín, Robert Lester y Eric Sims 
 
 <br>
 
