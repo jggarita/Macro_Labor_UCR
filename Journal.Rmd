@@ -40,10 +40,10 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 ### Búsqueda unilateral
 
-* Notas modelo [McCall](materials/McCall.pdf)
-* [Tarea 2](materials/Tarea_2.pdf)
 * Capítulo 5 Ljundqvist y Sargent 
 * Capítulo 17 del [GLS](https://www3.nd.edu/~esims1/GLS_may_2021.pdf) 
+* Notas modelo [McCall](materials/McCall.pdf)
+* [Tarea 2](materials/Tarea_2.pdf)
 
 
 # Tesis 3 
@@ -52,7 +52,8 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 ### Búsqueda bilateral
 
-* Notas
+* Capítulo 1 de Pissarides. Capítulo 9 de Cahuc, Carcillo y Zylberberg
+* Notas modelo Mortensen-Pissarides
 * Tarea 3
 
 # Tesis 4 

@@ -41,4 +41,5 @@ output: html_document
 
 #### Determinación salarial
 
+* Hall, R. E., & Krueger, A. B. (2012). Evidence on the incidence of wage posting, wage bargaining, and on-the-job search. American Economic Journal: Macroeconomics, 4(4), 56-67. [Link](https://www.nber.org/system/files/working_papers/w29874/w29874.pdf) [Descarga](materials/HallKrueger2012AEJ.pdf)
 * Acemoglu, D., He, A. X., & le Maire, D. (2022). Eclipse of Rent-Sharing: The Effects of Managers’ Business Education on Wages and the Labor Share in the US and Denmark.  4059303.[Link](https://www.nber.org/system/files/working_papers/w29874/w29874.pdf)
