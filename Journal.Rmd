@@ -53,7 +53,7 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 ### Búsqueda bilateral
 
 * Capítulo 1 de Pissarides. Capítulo 9 de Cahuc, Carcillo y Zylberberg
-* Notas modelo Mortensen-Pissarides
+* Notas modelo [DMP](materials/Modelo_DMP.pdf)
 * Tarea 3
 
 # Tesis 4 
