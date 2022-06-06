@@ -62,7 +62,9 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 ### Modelo de búsqueda y reclutamiento
 
+* [Notas](materials/recruiting_model.pdf)
+
+
+### Fluctuaciones del desempleo
+
 * Notas
-* Tarea 4
-
-
