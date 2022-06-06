@@ -54,23 +54,15 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 
 * Capítulo 1 de Pissarides. Capítulo 9 de Cahuc, Carcillo y Zylberberg
 * Notas modelo [DMP](materials/Modelo_DMP.pdf)
-* Tarea 3
+* [Tarea 3](materials/Tarea_3.pdf)
 
 # Tesis 4 
 
 <br>
 
-### Búsqueda desde el empleo
+### Modelo de búsqueda y reclutamiento
 
 * Notas
 * Tarea 4
 
-# Tesis 5 
-
-<br>
-
-### Modelo de emparejamiento
-
-* Notas
-* Tarea 5
 
