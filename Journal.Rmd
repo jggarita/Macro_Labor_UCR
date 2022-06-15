@@ -66,6 +66,3 @@ La versión más reciente del programa del curso [acá.](materials/MacroLabor.pd
 * [Notas determinación salarial](materials/Determinacion_salarial.pdf)
 * [Notas fluctuaciones del desempleo](materials/fluctuacion_u.pdf)
 
-### Fluctuaciones del desempleo
-
-* Notas
