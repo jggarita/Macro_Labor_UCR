@@ -11,7 +11,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Fecha de entrega: Viernes 29 de julio   
 ### Total: 20 puntos.  
 
-Para las preguntas de escogencia múltiple, solo indique su respuesta. Si hay más de una opción correcta, marqué todas las correctas.
+### Instrucciones: 
+
+1. Para las preguntas de escogencia múltiple, solo indique su respuesta. Si hay más de una opción correcta, marque todas las correctas.
+
+2. Puede hacer todos los ejercicios. Pero solo se evaluarán 3 de selección única y un problema. Indicar claramente cuáles ejercicios quiere que sean evaluados. 
 
 Para los problemas de desarrollo, muestre su racionamiento. 
 
