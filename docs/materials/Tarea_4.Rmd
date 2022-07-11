@@ -1,0 +1,157 @@
+---
+title: Macroeconomía Laboral
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tarea 4
+
+### Fecha de entrega: Viernes 29 de julio   
+### Total: 20 puntos.  
+
+Para las preguntas de escogencia múltiple, solo indique su respuesta. Si hay más de una opción correcta, marqué todas las correctas.
+
+Para los problemas de desarrollo, muestre su racionamiento. 
+
+### Pregunta A (1 punto)
+
+La estrechez laboral se define como $\theta = V/U$. ¿Cuál es la tasa a la cual las personas trabajadoras encuentran empleo cuando la función de emparejamiento es $m(U,V) = (U^{-\gamma} + V^{-\gamma})^{-\frac{1}{\gamma}}$ con $\gamma>0$?
+
+1. $f(\theta)=(1+\theta^{\gamma})^{-\frac{1}{\gamma}}$
+2. $f(\theta)=(1+\theta^{-\gamma})^{\gamma}$
+3. $f(\theta)=(1+\theta^{-\gamma})^{-\frac{1}{\gamma}}$
+4. $f(\theta)=(1+\theta^{\gamma})^{\gamma}$
+5. $f(\theta)=(1-\theta^{\gamma})^{-\frac{1}{\gamma}}$
+6. Ninguna de las anteriores
+
+### Pregunta B (1 punto)
+
+La estrechez laboral se define como $\theta = V/U$. ¿Cuál es la tasa a la cual una vacante se llena cuando la función de emparejamiento es $m(U,V) = (U^{-\gamma} + V^{-\gamma})^{-\frac{1}{\gamma}}$ con $\gamma>0$?
+
+1. $q(\theta)=(1+\theta^{-\gamma})^{-\frac{1}{\gamma}}$
+2. $q(\theta)=(1+\theta^{\gamma})^{\gamma}$
+3. $q(\theta)=(1+\theta^{\gamma})^{-\frac{1}{\gamma}}$
+4. $q(\theta)=(1+\theta^{-\gamma})^{\gamma}$
+5. $q(\theta)=(1-\theta^{-\gamma})^{-\frac{1}{\gamma}}$
+6. Ninguna de las anteriores
+
+### Pregunta C (1 punto)
+
+Considere la función de emparejamiento $m(U,V) = (U^{-\gamma} + V^{-\gamma})^{-\frac{1}{\gamma}}$ con $\gamma>0$. ¿Cómo se comportan las tasa de encuentro de empleo $f(\theta)$ y la tasa en que se llena una vacante $q(\theta)$ en el límite?
+
+1. $f(0)=0$, $q(0)=0$, $\lim_{\theta\to\infty}f(\theta) = 1$, $\lim_{\theta\to\infty}q(\theta) = 1$.
+2. $f(0)=1$, $q(0)=1$, $\lim_{\theta\to\infty}f(\theta) = 0$, $\lim_{\theta\to\infty}q(\theta) = 0$.
+3. $f(0)=0$, $q(0)=1$, $\lim_{\theta\to\infty}f(\theta) = 1$, $\lim_{\theta\to\infty}q(\theta) = 0$.
+4. $f(0)=1$, $q(0)=0$, $\lim_{\theta\to\infty}f(\theta) = 0$, $\lim_{\theta\to\infty}q(\theta) = 1$.
+5. $f(0)=0$, $q(0)=\infty$, $\lim_{\theta\to\infty}f(\theta) = \infty$, $\lim_{\theta\to\infty}q(\theta) = 0$.
+6. $f(0)=\infty$, $q(0)=0$, $\lim_{\theta\to\infty}f(\theta) = 0$, $\lim_{\theta\to\infty}q(\theta) = \infty$.
+
+### Pregunta D (1 punto)
+
+Considere la función de emparejamiento $m(U,V)$ que tiene retornos constantes a escala y es creciente en $U$ y $V$. ¿Qué puede decir con seguridad sobre la tasa de encuentro de empleo y la tasa a la cual se llenan las vacantes?
+
+1. Las tasas son función de la estrechez laboral.
+2. Ambas tasas son crecientes en la estrechez.
+3. Ambas tasas son decrecientes en la estrechez.
+4. La tasa de encuentro de empleo es decreciente en la estrechez y la tasa en que se llena una vacante es creciente en la estrechez.
+5. La tasa de encuentro de empleo es creciente en la estrechez y la tasa en que se llena una vacante es decreciente en la estrechez.
+6. La función de emparejamiento es muy general para poder decir algo. 
+
+### Pregunta E (1 punto)
+
+Suponga que el gobierno implementa un programa de entrenamiento para incrementar la productividad y calificación de las personas trabajadoras. En el modelo de emparejamiento con salario fijo, esta política: 
+
+1. Movería la curva de demanda laboral hacia afuera
+2. Movería la curva de demanda laboral hacia adentro
+3. Movería la curva de oferta laboral hacia la derecha
+4. Movería la curva de oferta laboral hacia la izquierda
+5. Rotaría la curva de demanda laboral hacia arriba
+6. Rotaría la curva de demanda laboral hacia abajo
+7. No tendría impacto sobre la curva de demanda u oferta laboral
+
+### Pregunta F (1 punto)
+
+Suponga que el gobierno implementa un programa de entrenamiento para incrementar la productividad y calificación de las personas trabajadoras. En el modelo de emparejamiento con negociación tipo Nash, esta política: 
+
+1. Aumentaría el salario real
+2. Bajaría el salario real
+3. Movería la curva de oferta laboral hacia la izquierda
+4. Movería la curva de oferta laboral hacia la derecha
+5. No tendría impacto en el salario o la curva de oferta
+
+### Pregunta G (1 punto)
+
+En el modelo de emparejamiento ¿cuál de los siguientes parámetros y variables tienen un impacto negativo sobre la demanda laboral?
+
+1. La estrechez laboral y la productividad
+2. El salario y la productividad
+3. El salario y la estrechez laboral
+4. La fuerza laboral y el salario
+5. La fuerza laboral y el costo de reclutamiento
+6. Ninguna de las anteriores
+
+### Pregunta H (1 punto)
+
+Considere un shock negativo de demanda laboral en el modelo de emparejamiento con salario rídigo. Entonces: 
+
+1. La tasa de desempleo baja
+2. La probabilidad de perder el empleo en un mes dado sube
+3. La probabilidad de perder el empleo en un mes dado baja
+4. La probabilidad de encontrar un empleo en un mes dado baja
+5. La probabilidad de encontrar un empleo en un mes dado sube
+6. La probabilidad de que una vacante se llene en un mes dado sube
+7. La probabilidad de que una vacante se llene en un mes dado baja
+8. Ninguna de las anteriores
+
+### Pregunta I (1 punto)
+
+Considere un modelo de emparejamiento con función de producción lineal, función de emparejamiento Cobb-Douglas y negociación tipo Nash. Sea $\eta$ la elasticidad de la función de emparejamiento con respecto al desempleo y $1-\eta$ la elasticidad de la función de emparejamiento con respecto a las vacantes. Sea $\beta$ el poder de negociación de la persona trabajadora y $1-\beta$ el poder de negociación de las empresas. Sea $r$ el costo de reclutamiento, medido como personas reclutadoras por vacante. Sea $z$ el valor social del desempleo relativo al empleo: $z=0$ significa que las personas desempleadas no contribuyen al bienestar social, mientras que $z=1$ implica que las personas desocupadas contribuyen tanto como las personas desempleadas al bienestar social. ¿Cuál proposición es correcta?
+
+1. La estrechez laboral eficiente es creciente en $\eta$.
+2. La estrechez laboral eficiente es decreciente en $\eta$.
+3. La estrechez laboral eficiente es creciente en $z$.
+4. La estrechez laboral eficiente es decreciente en $z$.
+5. La estrechez laboral eficiente es creciente en $r$.
+6. La estrechez laboral eficiente es decreciente en $r$.
+7. La estrechez laboral eficiente es creciente en $\beta$.
+8. La estrechez laboral eficiente es decreciente en $\beta$.
+
+### Pregunta J (1 punto)
+
+Considere un modelo de emparejamiento con racionamiento de empleo y salarios rígidos. ¿Qué pasa a lo largo del ciclo económico?
+
+1. En recesiones, el desempleo por racionamiento es alto pero el friccional es bajo
+2. En recesiones, el desempleo por racionamiento es bajo pero el friccional es alto
+3. En recesiones, el desempleo por racionamiento y el friccional son altos
+4. Un incremento en el empleo público tiene un efecto más fuerte sobre el empleo total en malos tiempos que en buenos tiempos
+5. Un incremento en el empleo público tiene un efecto más fuerte sobre el empleo total en buenos tiempos que en malos tiempos
+6. El seguro de desempleo óptimo es más generoso en malos tiempos que en buenos tiempos
+7. El seguro de desempleo óptimo es más generoso en buenos tiempos que en malos tiempos
+8. El mercado laboral siempre opera eficientemente, por lo que no se necesitan políticas establizadoras a lo largo del ciclo económico
+
+### Problema A (6 puntos)
+
+Considere un modelo de emparejamiento con una fuerza laboral $H$. La función de emparejamiento es Cobb-Douglas:  $m(U,V) = \omega \cdot U^{\eta} \cdot V^{1-\eta}$, con $U$ el número de personas desempleadas, $V$ el número de puestos vacantes, y $\eta\in(0,1)$ la elasticidad del emparejamiento. Todas las personas trabajadoras reciben el salario mínimo $w>0$. Las empresas tienen la función de producción $y(N) = a \cdot N^{\alpha}$, con $a$ como la productividad laboral, $N$ el número de personas productas dentro de la empresa, y $\alpha \in(0,1)$ indica los retornos marginales del trabajo. Las empresas incurren en un costo de reclutamiento de $r > 0$ reclutadores por vacante y enfrentan una tasa de destrucción del emparejamiento de $s > 0$. La estrechez laboral es $\theta = V/U$.
+
+1. Encuentre la tasa de encuentro de empleo $f(\theta)$ y la tasa a la que se llena una vacante $q(\theta)$. Asumiendo que los flujos laborales se balancean, encuentre el ratio reclutador-productor $\tau(\theta)$. Estime las elasticidades de $f$, $q$, y $1+\tau$ con respecto a $\theta$.
+2. Asumiendo que los flujos laborales se balancean, encuentre la oferta laboral $L^s(\theta,H)$. Estime las elasticidades de $L^s$ con respecto a $\theta$ y $H$.
+3. Las empresas deciden su nivel de empleo para maximizar sus ganancias: $y(N) - [1+\tau(\theta)] \cdot w \cdot N$. Estime la curva de demanda $L^d(\theta)$ resolviendo el problema de maximización de ganancias. Estima la elasticidad de $L^d$ con respecto a $\theta$.
+4.  Caracterice la estrechez $\theta(H)$ y la tasa de desempleo $u(H)$ en el modelo. Ilustre mediante un diagrama cómo se determinan $\theta(H)$ y $u(H)$.
+5.  Denote la elasticidad de la estrechez $\theta(H)$ y de la tasa de desempleo $u(H)$ con respecto a $H$ como $\epsilon^{\theta}_H$ y $\epsilon^{u}_H$. Estime $\epsilon^{\theta}_H$ y $\epsilon^{u}_H$. Interprete el signo de estas elasticidades.
+6. ¿Cuál es el signo de la derivada $d|\epsilon^{\theta}_H|/da$? (No necesita estimar esta derivada, solo determinar su signo). Hay momentos cuando las personas se oponen fuertemente a la inmigración y otros donde la inmigración no es problema. Basado en el signo de la derivadas, ¿cuándo es problable que la oposición a la inmigración sea particularmente fuerte? ¿Tiene sentido esto con lo observado en la vida real?
+
+
+### Problema B (4 puntos)
+
+Considere un modelo de emparejamiento de un período con fuerza laboral de tamaño 1, una masa de empresas de tamaño 1 y gobierno. Todas las personas trabajadoras inicialmente están desempleadas. Las empresas privadas y el gobierno postean vacantes y buscan emparejarse con las personas trabajadoras. Una vez que se crean los emparejamientos, la producción ocurre. La función de emparejamiento es $m(V) = \sqrt{V}$, con $V$ el total de vacantes posteadas por empresas y gobierno. Dado que todas las personas trabajadoras están inicialmente desempleadas, entonces la estrechez laboral es el número agregado de vacantes, $\theta = V$.
+
+Las empresas incurren en un costo de reclutamiento $r > 0$ (reclutadores por vacante). Las empresas tienen una función de producción $y(N) = 2 a  \sqrt{N}$, con $a$ la productividad laboral y $N$ el número de productores en la empresa. Sea $F$ el total de personas trabajadoras en la empresa. La empresa paga un salario rígido $w = \sqrt{a}$ a todas sus personas trabajadoras $F$. Cada empresa escoge el nivel $F$ que maximiza sus ganancias. 
+
+El gobierno emplea $G>0$ personas. El empleo agregado es la suma entre el empleo público y privado: $L = G + F$. la proporción de empleo público dentro del total es $\sigma = G/L$.
+
+1.  La oferta laboral $L^s(\theta)$ da el número de personas trabajadoras que encuentran un trabajo (sea en el sector público o privado) mediante el proceso de emparejamiento cuando la estrechez es $\theta$. Dada la expresión para $L^s(\theta)$ ¿cuál es la elasticidad de $L^s(\theta)$ con respecto a $\theta$.
+2.  La demanda laboral agregada $L^d(\theta,G)$ es la suma entre la demanda privada $F^d(\theta)$ y la demanda laboral pública $G$. Estime $L^d(\theta,G)$. ¿Cuáles son las elasticidades de $L^d(\theta,G)$ con respecto a $\theta$ y con respecto a $G$?
+3. Estime una expresión para el multiplicador público $\lambda = dL/dG$. ¿Es el multiplicador $\lambda$ positivo o negativo? ¿Es $|\lambda|$ menor o mayor que uno? Interprete estos resultados.
+4. ¿Cuál es el signo de la derivada $d\lambda/da$? ¿Qué implicaciones tiene este resultado para la efectividad de la política fiscal sobre el ciclo económico? ¿Le parece realista este resultado?
